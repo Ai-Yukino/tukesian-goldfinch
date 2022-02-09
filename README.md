@@ -4,6 +4,5 @@
 
 ### Data
 
-- Columns for `da.csv`
-- Columns for `de.csv`
-- Collect data
+- Collect data for `da.csv` and `de.csv`
+  - Refine columns later
