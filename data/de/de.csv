@@ -1,1 +1,39 @@
-Cloud,ETL,Linux,Jobs scheduling,DB Migration,Role
+ID,Title,Company,APIs,Cloud,Collaboration,DB migration,DB warehouse/modeling,ETL,Linux,Jobs scheduling,SQL optimization
+1,Data engineer,Oracle,0,0,1,0,0,1,0,0,0
+2,Data engineer I,Cognizant Technology Solutions,0,0,0,0,0,3,1,1,1
+3,Data engineer,HomeAdvisor,0,0,1,0,1,2,0,0,1
+4,Data engineering intern,Ellucian,0,0,0,0,0,2,0,0,0
+5,Data engineer,DataWeave,0,0,0,0,0,3,0,0,0
+6,Data engineer,Advance Auto Parts,1,1,1,0,0,2,0,0,0
+7,Data engineer,Converse,0,0,0,0,0,3,0,0,0
+8,Data engineer,Stratasan,0,1,0,0,0,2,0,1,0
+9,Data engineer,Bibles for America,0,2,0,0,0,1,0,0,0
+10,Data engineer,Oracle,1,5,1,0,0,5,0,0,0
+11,Data engineer,SADA,0,0,1,1,0,2,0,0,0
+12,Data engineer,Wipro Limited,0,0,0,1,0,2,0,0,0
+13,Data engineer,Capital One,0,0,1,0,0,2,0,0,0
+14,Data engineer,Braintree,1,0,0,1,0,1,0,0,0
+15,Associate data engineer,Housecall Pro,1,0,0,1,1,5,0,0,1
+16,Data engineer,McGraw-Hill,1,0,0,0,0,2,0,1,2
+17,Data engineer,USAA,0,0,0,0,1,2,0,1,0
+18,Data engineering intern,Camino Financial,0,1,1,0,0,2,0,0,1
+19,Data engineering intern,inventXYZ,1,0,0,0,0,1,0,0,0
+20,Data engineer,McGraw-Hill,1,1,0,0,0,3,0,0,0
+21,Associate data engineer,Quaero,0,0,0,0,0,1,0,0,0
+22,Data engineer intern,Quaero,2,0,0,0,0,1,0,0,0
+23,Data engineer,Quaero,0,1,0,0,0,3,0,1,0
+24,Data engineer II,Beyond Finance,0,0,0,0,0,3,0,0,0
+25,Data engineer,Richfield Fertilizers,0,0,0,0,0,2,0,0,0
+26,Data engineering co-op,Commonwealth Care Alliance,0,0,1,1,1,1,0,1,1
+27,Data engineer,Nomis Solutions,0,0,2,1,1,3,0,0,0
+28,Associate data engineer,American Airlines,0,1,0,0,0,3,0,0,0
+29,Data engineer,IAC Applications,1,1,0,0,2,3,0,0,0
+30,Data engineer,Radius Intelligence,0,1,0,0,0,3,0,0,0
+31,Data engineering intern,Novartis,0,0,1,0,0,3,0,0,0
+32,Data engineer,CVS Health Company,0,0,0,0,0,3,0,0,0
+33,Data engineer intern,Samsung Electronics Polska,0,0,0,0,0,2,0,0,0
+34,Data engineer,Samsung Electronics Polska,1,2,0,0,0,3,0,0,0
+35,Data engineer intern,Medata,0,0,0,0,1,1,0,0,0
+36,Data engineer,Medata,0,0,0,0,0,1,0,0,0
+37,Data engineer,Verana Health,0,1,0,0,0,3,0,0,0
+38,Data engineer,Dun & Bradstreet,0,0,0,0,1,1,0,0,0
