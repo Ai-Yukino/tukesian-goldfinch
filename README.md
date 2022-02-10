@@ -1,5 +1,15 @@
 # `README.md` for [tukesian-goldfinch](https://github.com/Ai-Yukino/tukesian-goldfinch)
 
+This is a project for a homework assignment for Tech Talent South's 2022 data science course. The assignment focused on doing light EDA on a dataset of our choice. Here's what I did:
+
+- manually find LinkedIn profiles with "data engineer" roles
+- make sure those roles had detailed experience descriptions (i.e. bullet points for specific tasks and responsbilities)
+- for each relevant role, I counted the number of tasks in specific categories
+  - e.g. ETL workflow in general, optimizing SQL queries, migrating databases, cloud work with AWS, Azure, etc.
+- I made a very rough report based on histograms of my data variables (i.e. columns)
+
+The report is in `report/report.pdf`, the csv data is in `data/de`, and the plots are in `report/plots`.
+
 ## Running the Jupyter Lab notebook
 
 If you do not already have Jupyter **Lab** in your python virtual environment, then follow the instructions [here](https://jupyter.org/install) to install it.
